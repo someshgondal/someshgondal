@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @someshgondal  
+- 👀 I’m interested in web development, Java programming, and cybersecurity.  
+- 🌱 I’m currently learning advanced Java concepts, asynchronous JavaScript, and CSS animations.  
+- 💞️ I’m looking to collaborate on front-end development projects and innovative web applications.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/someshgondal) | Email: someshgondal@example.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love simplifying complex problems into elegant solutions and experimenting with new tech trends!  
